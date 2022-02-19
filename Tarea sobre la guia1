@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contaminacion</title>
+</head>
+<body>
+    <h1>La contaminación</h1>
+    <div>
+    <h2>Tipos de contaminación</h2>
+    <p>La contaminación es la presencia en el ambiente de sustancias o elementos dañinos para los seres humanos y los ecosistemas (seres vivos).</p>
+    <h1>Contaminación del aire</h1>
+    <h2>Contaminacion del agua</h2>
+    <h2>Contaminacion de la tierra</h3>
+    <h4>Esto es h4</h4>
+    <h5>Esto es h5</h5>
+    <h6>Esto es h6</h6>
+    </div>
+    <hr>
+    <div>
+        <h2>Usando negritas, cursivas y subrayados</h2>
+        <p>Dentro de html se puede agregar negritas <b>negrita</b>,<i>Soy cursiva</i> y <ins>subrayado 
+        </ins>Aqui enpieza otro elemento <b><i>Hola</i></b></p>
+    </div>
+    <hr>
+    <div>
+        <h2>Aqui va la cita</h2>
+        <p>Cuando estamos escribiendo algo en nuestra pagina creada podemos citar al autor y asi librarnos de una demanda</p>
+        <blockquote>Esta es mi cita</blockquote>
+        <cite>https://www.culturarecreacionydeporte</cite>
+    </div>
+         <h2>Aqui esta una imagen sobre la contaminación</h2>
+<img src="C:/Users/Stwar/Pictures/contaminacion.jfif" alt="Pruebas">
+</div>
+<div>
+    <h2>Agregando vinculos</h2>
+    <p><a href="https://www.google.com/search?q=la+contaminacion&sxsrf=APq-WBsGZ6nBf0e2VlM_ZgTqswqwNeJnsw:1645286651049&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGuo6zkoz2AhXORjABHbWmBTMQ_AUoAXoECAEQAw&biw=2304&bih=1130&dpr=0.83#imgrc=-iulDlFEPJgz-M">Hola abrelo por favor</a></p>
+    <p><a href="https://www.google.com/search?q=la+contaminacion+en+rd&source=lmns&bih=1130&biw=2304&hl=es-419&sa=X&ved=2ahUKEwiB8aPO24z2AhUvl-AKHXorCVoQ_AUoAHoECAEQAA">Hola abrelo por favor</a></p>
+    
+
+</body>
+</html>
